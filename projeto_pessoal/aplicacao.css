@@ -1,0 +1,12 @@
+body {
+    width: 50%;
+    margin: auto;
+    background: url(tela_fundo.jpg) center;
+    background-position: 30% 45%;
+    background-size: cover;
+
+    text-align: justify;
+    font-family: 'Arial';
+    line-height: 1.5;
+    color: black
+}
